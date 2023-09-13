@@ -1,0 +1,1 @@
+![Bianca Uche](./src/assets/Bianca-Portfolio-full.png)
