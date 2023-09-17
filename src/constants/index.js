@@ -167,8 +167,8 @@ const projects = [
       },
     ],
     image: CinemaWorldLight,
-    source_code_link: "https://github.com/",
-    web_link: "",
+    source_code_link: "https://github.com/Erudite885/cinema-world",
+    web_link: "https://cinemaworldmovies.netlify.app",
   },
   {
     name: "Admin Dashboard",
@@ -233,8 +233,8 @@ const projects = [
       },
     ],
     image: CoffeeRoasters,
-    source_code_link: "https://github.com/",
-    web_link: "https://github.com/",
+    source_code_link: "https://github.com/Erudite885/coffee_roasted",
+    web_link: "https://coffee-roasted.netlify.app",
   },
   {
     name: "MarketPlace",
